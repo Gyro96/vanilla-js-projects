@@ -1,0 +1,86 @@
+export default [
+  {
+    index: 0,
+    hash: "yule",
+    name: "直播",
+    background: "#5C2233",
+  },
+  {
+    index: 1,
+    hash: "donghua",
+    name: "动画",
+    background: "#EEA2A4",
+  },
+  {
+    index: 2,
+    hash: "fanju",
+    name: "番剧",
+    background: "#5A191B",
+  },
+  {
+    index: 3,
+    hash: "guochuang",
+    name: "国创",
+    background: "#F07C82",
+  },
+  {
+    index: 4,
+    hash: "manhua",
+    name: "漫画",
+    background: "#5A1216",
+  },
+  {
+    index: 5,
+    hash: "yinyue",
+    name: "音乐",
+    background: "#ED5A65",
+  },
+  {
+    index: 6,
+    hash: "wudao",
+    name: "舞蹈",
+    background: "#C04851",
+  },
+  {
+    index: 7,
+    hash: "youxi",
+    name: "游戏",
+    background: "#EE3F4D",
+  },
+  {
+    index: 8,
+    hash: "zhishi",
+    name: "知识",
+    background: "#C02C38",
+  },
+  {
+    index: 9,
+    hash: "ketang",
+    name: "课堂",
+    background: "#A7535A",
+  },
+  {
+    index: 10,
+    hash: "keji",
+    name: "科技",
+    background: "#F0A1A8",
+  },
+  {
+    index: 11,
+    hash: "qiche",
+    name: "汽车",
+    background: "#A61B29",
+  },
+  {
+    index: 12,
+    hash: "shenghuo",
+    name: "生活",
+    background: "#C45A65",
+  },
+  {
+    index: 13,
+    hash: "meishi",
+    name: "美食",
+    background: "#CE5777",
+  },
+];
