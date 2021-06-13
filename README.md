@@ -10,3 +10,5 @@
 
 - 图片放大镜：[点击预览](https://ezclap-x.github.io/vanilla-js-projects/03.%E5%9B%BE%E7%89%87%E6%94%BE%E5%A4%A7%E9%95%9C/)
 
+- 鼠标滚动下滑，页面横向滚动：[点击预览](https://ezclap-x.github.io/vanilla-js-projects/04.%E9%A1%B5%E9%9D%A2%E6%A8%AA%E5%90%91%E6%BB%9A%E5%8A%A8/)
+

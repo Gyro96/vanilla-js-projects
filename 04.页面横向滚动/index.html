@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>页面横向滚动</title>
+    <link rel="stylesheet" href="../normalize.css" />
+    <style>
+      .container {
+        display: flex;
+        /* overflow-x: scroll; */
+        overflow: hidden;
+      }
+
+      .page {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        flex-shrink: 0;
+        font-size: 100px;
+        color: #fff;
+      }
+
+      .page-one {
+        background-color: #5b7a97;
+      }
+
+      .page-two {
+        background-color: #83c3ff;
+      }
+
+      .page-three {
+        background-color: #55a5ff;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="page page-one">1</div>
+      <div class="page page-two">2</div>
+      <div class="page page-three">3</div>
+    </div>
+    <script>
+      let $container = document.querySelector(".container");
+      // 监听鼠标滚轮事件
+      $container.addEventListener("wheel", (e) => {
+        // 阻止默认滚动事件（下滚）
+        e.preventDefault();
+
+        // 设置容器 scrollLeft，让容器内容向左移动
+        // deltaY 为滚轮垂直滚动的距离
+        $container.scrollLeft += e.deltaY;
+      });
+    </script>
+  </body>
+</html>
