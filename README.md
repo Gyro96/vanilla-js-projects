@@ -13,3 +13,5 @@
 - 鼠标滚动下滑，页面横向滚动：[点击预览](https://ezclap-x.github.io/vanilla-js-projects/04.%E9%A1%B5%E9%9D%A2%E6%A8%AA%E5%90%91%E6%BB%9A%E5%8A%A8/)
 
 - 自由拖拽盒子：[点击预览](https://ezclap-x.github.io/vanilla-js-projects/05.%E8%87%AA%E7%94%B1%E6%8B%96%E6%8B%BD%E7%9B%92%E5%AD%90/)
+
+- Dialog插件：[点击预览](https://ezclap-x.github.io/vanilla-js-projects/06.Dialog%E6%8F%92%E4%BB%B6/)
