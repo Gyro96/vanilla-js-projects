@@ -14,4 +14,4 @@
 
 - 自由拖拽盒子：[点击预览](https://ezclap-x.github.io/vanilla-js-projects/05.%E8%87%AA%E7%94%B1%E6%8B%96%E6%8B%BD%E7%9B%92%E5%AD%90/)
 
-- Dialog插件：[点击预览](https://ezclap-x.github.io/vanilla-js-projects/06.Dialog%E6%8F%92%E4%BB%B6/)
+- 弹出框插件：[点击预览](https://ezclap-x.github.io/vanilla-js-projects/06.%E5%BC%B9%E5%87%BA%E6%A1%86%E6%8F%92%E4%BB%B6/)
